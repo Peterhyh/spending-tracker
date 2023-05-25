@@ -1,0 +1,37 @@
+.homePageContainer {
+    border: 1px solid firebrick;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #6537B2;
+}
+
+.incomeContainer {
+    display: flex;
+    flex-direction: column;
+    border: 5px solid #42188bba;
+    width: 500px;
+    height: 700px;
+    border-radius: 20px;
+    background-color: #42188b86;
+    color: #fff;
+}
+
+.incomeInputsContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.incomeInputsContainer input {
+    width: 170px;
+}
+
+.incomeInputsContainer div {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-bottom: 20px;
+}
