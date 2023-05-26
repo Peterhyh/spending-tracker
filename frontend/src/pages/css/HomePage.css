@@ -4,17 +4,17 @@
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #6537B2;
+    background-color: #171D2D;
 }
 
 .incomeContainer {
     display: flex;
     flex-direction: column;
-    border: 5px solid #42188bba;
+    border: 5px solid #0A0E1D;
     width: 500px;
     height: 700px;
     border-radius: 20px;
-    background-color: #42188b86;
+    background-color: #0A0E1D;
     color: #fff;
 }
 
