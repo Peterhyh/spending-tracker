@@ -1,0 +1,19 @@
+.registerUserPageContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #171D2D;
+    height: 100vh;
+}
+
+.registerUserForm {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 250px;
+    height: 250px;
+    color: #fff;
+    border-radius: 20px;
+    background-color: #0A0E1D;
+}
