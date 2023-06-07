@@ -11,10 +11,14 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 250px;
-    height: 250px;
+    width: 500px;
+    height: 500px;
     color: #fff;
     border-radius: 20px;
     background-color: #0A0E1D;
     padding: 30px;
+}
+
+.registerUserForm input {
+    margin: 20px;
 }
